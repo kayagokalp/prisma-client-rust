@@ -63,5 +63,3 @@ Prisma Client Rust is not an official Prisma product, but has been [generously s
 - [Robert Craige](https://github.com/sponsors/RobertCraigie) for writing tests for [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) that I have adapted.
 - [Spacedrive](https://spacedrive.com) for hiring me and letting me work on this.
   (sure I'm a founding member but thanks anyway!)
-# test Thu Jan 29 14:00:19 PST 2026
-# test Thu Jan 29 14:10:26 PST 2026
